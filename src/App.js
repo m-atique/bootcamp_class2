@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <h1>2nd class Boot camp</h1>
         
         <a>
           First react app for boot camp 2020
