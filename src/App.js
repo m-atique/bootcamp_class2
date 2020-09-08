@@ -10,7 +10,7 @@ function App() {
         
         <a>
         <h1>2nd class Boot camp</h1>
-          First react app for boot camp 2020
+          React app deployed on surge
         </a>
       </header>
     </div>

@@ -32,6 +32,8 @@ jobs:
         #yarn commad
         with:
           cmd: install  
+      -name: creating build pckg
+       run: yarn build    
           
           #install surge and deploy
       - name: Install Surge
