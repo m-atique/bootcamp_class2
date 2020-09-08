@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
         
         <a>
         <h1>2nd class Boot camp</h1>
-          React app deployed on surge
+          First react app for boot camp 2020
         </a>
       </header>
     </div>
