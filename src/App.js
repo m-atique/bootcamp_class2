@@ -6,10 +6,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
         
-        
-        <a>
-        <h1>2nd class Boot camp</h1>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           First react app for boot camp 2020
         </a>
       </header>
@@ -18,3 +22,4 @@ function App() {
 }
 
 export default App;
+
